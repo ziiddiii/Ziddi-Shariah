@@ -1,0 +1,307 @@
+[
+  {
+    "ticker": "ABSA",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ABSA_Group_Limited_Logo.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "BAMB",
+    "source": "https://www.nse.co.ke/wp-content/uploads/Bamburi_Cement_Logo.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "BAT",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-bat-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "BKG",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-bok-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "BOC",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-boc-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "BRIT",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-brit-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "CABL",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-cabl-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "CARB",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-carb-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "CGEN",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-cg-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "CIC",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-cic-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "COOP",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-coop-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "CRWN",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-berg-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "CTUM",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ug-cent-logo.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "DTBK",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-dtk-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "EABL",
+    "source": "https://www.nse.co.ke/wp-content/uploads/logo-7.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "EGAD",
+    "source": "https://www.nse.co.ke/wp-content/uploads/download-2.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "EQTY",
+    "source": "https://www.nse.co.ke/wp-content/uploads/Equity_Group_Logo.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "EVRD",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-evrd-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "FTGH",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-ftgh-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "GLD",
+    "source": "https://www.nse.co.ke/wp-content/uploads/NG_LogoTM_General_Use_CMYK.jpg",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "HAFR",
+    "source": "https://www.nse.co.ke/wp-content/uploads/home-afrika-logox2.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "HFCK",
+    "source": "https://www.nse.co.ke/wp-content/uploads/download-3.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "IMH",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-im-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "JUB",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-jub-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KAPC",
+    "source": "https://www.nse.co.ke/wp-content/uploads/kapchorua-tm-icon.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KCB",
+    "source": "https://www.nse.co.ke/wp-content/uploads/download-4.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KEGN",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-kegn-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KNRE",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-knre-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KPLC",
+    "source": "https://www.nse.co.ke/wp-content/uploads/logo-6.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KQ",
+    "source": "https://www.nse.co.ke/wp-content/uploads/download-5.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KUKZ",
+    "source": "https://www.nse.co.ke/wp-content/uploads/kakuzi-PLC-logo.jpg",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "KURV",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-kurv-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "LBTY",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-cfci-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "LIMT",
+    "source": "https://www.nse.co.ke/wp-content/uploads/d6852a61-ke-limt-2018-ar-00.jpg",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "LKL",
+    "source": "https://www.nse.co.ke/wp-content/uploads/longhorn-logo-1.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "NBV",
+    "source": "https://www.nse.co.ke/wp-content/uploads/NBV.jpg",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "NCBA",
+    "source": "https://www.nse.co.ke/wp-content/uploads/NCBA_Group_Logo_2019-1.jpg",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "NMG",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ug-nmg-logo.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "NSE",
+    "source": "https://www.nse.co.ke/wp-content/uploads/Nairobi_Securities_Exchange_logo.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "OCH",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-och-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "PORT",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-port-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SASN",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-sasn-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SBIC",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-cfc-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SCAN",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-scan-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SCBK",
+    "source": "https://www.nse.co.ke/wp-content/uploads/1200px-Standard_Chartered.svg_.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SCOM",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-scom-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SGL",
+    "source": "https://www.nse.co.ke/wp-content/uploads/logo-5.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SLAM",
+    "source": "https://www.nse.co.ke/wp-content/uploads/sanlam-logo.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "SMER",
+    "source": "https://www.nse.co.ke/wp-content/uploads/download-1.jpg",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "TCL",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-tcl-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "TPSE",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-tpse-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "UCHM",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-uchm-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "UMME",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-umme-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "UNGA",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-unga-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "WTK",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-wtk-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "XPRS",
+    "source": "https://www.nse.co.ke/wp-content/uploads/ke-xprs-logo-min.png",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "FAHR",
+    "source": "https://ilamfahariireit.com/assets/images/logo.jpg",
+    "directory": "https://ilamfahariireit.com/"
+  },
+  {
+    "ticker": "HBE",
+    "source": "https://homeboyz.co.ke/img/homeboyz/homeboyz.png",
+    "directory": "https://homeboyz.co.ke/"
+  },
+  {
+    "ticker": "ORCH",
+    "source": "https://www.nse.co.ke/wp-content/uploads/Amac-logo2.jpg",
+    "directory": "https://www.nse.co.ke/listed-companies/"
+  },
+  {
+    "ticker": "TOTL",
+    "source": "https://totalenergies.ke/themes/custom/butterfly_theme/logo.svg?v=1.2",
+    "directory": "https://totalenergies.ke/"
+  },
+  {
+    "ticker": "KENO",
+    "source": "https://rubiskenya.com/wp-content/uploads/2020/10/new-logo2.jpg",
+    "directory": "https://rubiskenya.com/website/"
+  }
+]

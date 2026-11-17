@@ -1,0 +1,104 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794506234279,
+      "tag": "0000_rename_display_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794514647168,
+      "tag": "0001_per_user_share_trading_limits",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794514741499,
+      "tag": "0002_explicit_remove_user_trading_limit",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1794515531012,
+      "tag": "0003_investment_maturity_and_claims",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1794516318675,
+      "tag": "0004_withdrawal_details_and_safe_admin_edits",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1794517061171,
+      "tag": "0005_protect_withdrawal_change_log_writes",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1794546707292,
+      "tag": "0006_private_support_chat_attachments",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1794547055728,
+      "tag": "0007_support_upload_storage_preflight",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1794547112371,
+      "tag": "0008_support_upload_incomplete_preflight_metadata",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1794762343757,
+      "tag": "0009_support_contact_settings",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1794764060659,
+      "tag": "0010_repair_admin_lock_settings_save",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1794764946007,
+      "tag": "0011_share_sale_profit_tiers",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1794766015499,
+      "tag": "0012_admin_investment_settlement",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1794768752890,
+      "tag": "0013_tighten_settings_read_policies",
+      "breakpoints": true
+    }
+  ]
+}

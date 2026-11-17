@@ -1,0 +1,39 @@
+# Current tasks
+- [x] Add secure admin editing of user name, username, email, phone, and password.
+- [x] Verify saved account details, password sign-in, access restrictions, and phone layout.
+- [x] Add admin Investment Portfolio with all investors, investment details, and settlement confirmation.
+- [x] Secure one-time admin completion and balance credit; verify permissions, duplicate protection, and user readback.
+- [x] Restore Portfolio as a holdings-and-selling page without the calculator.
+- [x] Show the sell alert five seconds after holdings appear and verify the buy-to-sell flow.
+- [x] Redesign Portfolio with an interactive profit projection chart and share-sale calculator.
+- [x] Apply the three new profit tiers to previews and authoritative sale settlement, then verify sales and layouts.
+- [x] Add admin minimum/maximum lock settings and refresh user lock limits.
+- [x] Verify saving, amount validation, and phone/desktop settings.
+- [x] Source and display authentic company logos for the existing NSE stocks.
+- [x] Verify stock logos on phone and desktop without changing trading data.
+- [x] Add admin support-contact settings and connect the homepage footer.
+- [x] Verify contact saving, public display, and admin-only editing.
+- [x] Add private file uploads and attachment viewing to user and admin live support.
+- [x] Verify two-way file delivery, upload errors, access permissions, and phone/desktop layouts.
+- [x] Add full withdrawal summaries to clickable recent user history.
+- [x] Add admin withdrawal details and safe, recorded edits with correct balance adjustments.
+- [x] Verify withdrawal editing permissions, stored details, and phone/desktop interactions.
+- [x] Activate automatic investment maturity and one-time balance claims for principal plus ROI.
+- [x] Show live countdown, claim status, and withdrawal access on investment pages.
+- [x] Verify scheduled completion, early/duplicate claim protection, and credited balances.
+- [x] Add admin-set per-user share-trading limits and cumulative trading totals.
+- [x] Block over-limit purchases and sales, notify near the limit, and reset only on approved withdrawal.
+- [x] Verify the admin controls and trading/withdrawal rules with focused tests and signed-in checks.
+- [x] Show all selected account-toolbar actions on phones and verify their menus and layout.
+- [x] Restyle login and registration without changing wording or account behavior.
+- [x] Verify both forms and their phone and desktop layouts.
+- [x] Refresh the green homepage with the supplied launch photo and fading effect.
+- [x] Incorporate the supplied investor photo and the captioned YouTube Short.
+- [x] Verify homepage navigation, video, and layout on desktop and phones.
+- [x] Redesign the homepage while preserving its wording and dominant green.
+- [x] Verify the redesigned homepage on desktop and phone sizes.
+- [x] Rename the project and all visible branding, emails, installed app labels, and statements.
+- [x] Check saved editorial branding and verify the renamed app.
+- [x] Publish the supplied M-PESA screenshot in Stories & Media.
+- [x] Add numerous truthful Kenya, Tanzania, and Uganda withdrawal footer flashes.
+- [x] Verify the media and flashes on the running site.
