@@ -3,7 +3,6 @@ import { X, Headphones, Circle } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { useAuth } from "@/hooks/use-auth";
 import { Button } from "@/components/ui/button";
-const chatIcon = { url: "/icon-192.png" };
 import { SupportMessageComposer } from "@/components/support-message-composer";
 import { SupportAttachment } from "@/components/support-attachment";
 import type { SupportMessage as Msg } from "@/lib/support-attachments";
@@ -151,7 +150,7 @@ export function SupportChat() {
           aria-expanded={false}
           className="fixed bottom-20 right-2 z-50 h-28 w-28 rounded-full bg-transparent p-0 transition-transform hover:scale-105 hover:bg-transparent motion-reduce:transform-none md:bottom-6 md:right-4 md:h-32 md:w-32"
         >
-          <img src={chatIcon.url} alt="" className="h-full w-full object-contain" />
+          <span className="grid h-16 w-16 place-items-center rounded-full bg-primary text-primary-foreground shadow-lg"><Headphones className="h-7 w-7" /></span>
           {unread > 0 && (
             <span className="absolute right-3 top-3 grid h-5 min-w-5 place-items-center rounded-full bg-destructive px-1 text-[10px] font-bold text-destructive-foreground ring-2 ring-background">
               {unread}
