@@ -24,6 +24,8 @@ import {
   Phone,
 } from "lucide-react";
 
+const launchPhoto = { url: "/recovered/ziidi-shariah-launch.jpg" };
+const investorPhoto = { url: "/recovered/ziidi-investor-tablet.jpg" };
 const COMMUNITY_VIDEO_URL = "https://youtube.com/shorts/uEvFntL2yCk?feature=share";
 const COMMUNITY_VIDEO_EMBED = youtubeEmbed(COMMUNITY_VIDEO_URL);
 const LIVE_VIDEO_EMBED = youtubeEmbed("https://www.youtube.com/watch?v=vEPQH5nr20s");
@@ -297,6 +299,7 @@ function TopNav() {
 function Hero() {
   return (
     <section className="home-hero relative isolate overflow-hidden bg-home-hero-ground text-home-paper">
+      <img src={launchPhoto.url} width={1920} height={1282} alt="The ZIIDI Shari'ah launch, with three leaders at the green launch podium" fetchPriority="high" className="home-hero-photo absolute right-0 top-0 -z-20 object-cover" />
       <div aria-hidden="true" className="home-hero-shade absolute inset-0 -z-10" />
       <div className="home-hero-content relative mx-auto flex max-w-7xl flex-col justify-center px-5 sm:px-8">
         <div className="home-hero-eyebrow flex items-center gap-3 text-[11px] font-semibold uppercase"><span className="h-2 w-2 shrink-0 rounded-full bg-home-lime" /><span>Nairobi Securities Exchange</span></div>
@@ -490,8 +493,11 @@ function StatsBand() {
 function CtaBand() {
   return (
     <section className="home-cta overflow-hidden bg-home-green-deep px-5 text-home-paper sm:px-8">
-      <div className="home-cta-layout relative mx-auto grid max-w-6xl items-center gap-8 md:gap-16">
+      <div className="home-cta-layout relative mx-auto grid max-w-6xl items-center gap-8 md:grid-cols-[minmax(0,0.7fr)_minmax(0,1.3fr)] md:gap-16">
         
+        <div className="home-investor-photo relative mx-auto w-full">
+          <img src={investorPhoto.url} width={294} height={464} alt="An investor smiling while using her tablet" loading="lazy" className="h-auto w-full" />
+        </div>
         <div className="relative min-w-0 py-12 md:py-20">
           <h2 className="text-3xl font-bold tracking-normal text-home-paper sm:text-4xl">
             Ready to get started?

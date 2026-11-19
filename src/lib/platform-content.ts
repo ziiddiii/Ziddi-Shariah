@@ -38,7 +38,7 @@ export function youtubeEmbed(url: string): string | null {
 }
 
 export function safeMediaUrl(url: string): string | null {
-  if (url.startsWith("/__l5e/assets-v1/")) return url;
+  if (url.startsWith("/__l5e/assets-v1/")) return "/recovered/" + url.split("/").pop();
   try {
     const parsed = new URL(url);
     return parsed.protocol === "https:" ? parsed.href : null;
