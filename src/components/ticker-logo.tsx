@@ -58,7 +58,7 @@ export function TickerLogo({ ticker, size = 40, className = "", logoUrl }: Ticke
   const sources = useMemo(() => {
     const next: string[] = [];
     // Retain admin replacements, but never request the retired Clearbit service.
-    if (resolvedLogoUrl && !resolvedLogoUrl.includes("logo.clearbit.com"))
+    if (resolvedLogoUrl && !resolvedLogoUrl.includes("logo.clearbit.com") && !resolvedLogoUrl.startsWith("/__l5e/"))
       next.push(resolvedLogoUrl);
     const officialLogo = STOCK_LOGOS[ticker.toUpperCase()];
     if (officialLogo) next.push(officialLogo);

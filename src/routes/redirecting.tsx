@@ -1,7 +1,7 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { CheckCircle2 } from "lucide-react";
-import safaricomLogo from "@/assets/safaricom-main-logo.png.asset.json";
+import safaricomLogo from "@/assets/safaricom-logo.png";
 
 const BRAND = "oklch(62% .18 145)";
 
@@ -71,7 +71,7 @@ function RedirectingPage() {
             aria-live="polite"
           >
             <img
-              src={safaricomLogo.url}
+              src={safaricomLogo}
               alt="Safaricom"
               className="mx-auto h-14 w-auto"
             />

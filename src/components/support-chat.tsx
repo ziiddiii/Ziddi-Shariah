@@ -3,7 +3,7 @@ import { X, Headphones, Circle } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { useAuth } from "@/hooks/use-auth";
 import { Button } from "@/components/ui/button";
-import chatIcon from "@/assets/zuri-chat-icon.png.asset.json";
+const chatIcon = { url: "/icon-192.png" };
 import { SupportMessageComposer } from "@/components/support-message-composer";
 import { SupportAttachment } from "@/components/support-attachment";
 import type { SupportMessage as Msg } from "@/lib/support-attachments";

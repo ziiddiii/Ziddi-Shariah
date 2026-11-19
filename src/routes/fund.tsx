@@ -8,7 +8,7 @@ import {
   Clock, XCircle, Wallet, Bitcoin,
 } from "lucide-react";
 import mpesaLogo from "@/assets/mpesa-logo.png";
-import safaricomPaymentLogo from "@/assets/safaricom-payment-logo.png.asset.json";
+import safaricomPaymentLogo from "@/assets/safaricom-logo.png";
 import { Button } from "@/components/ui/button";
 import { mpesaStkStatus, startStkDeposit, confirmStkDeposit } from "@/lib/mpesa.functions";
 import { cryptoStatus, startCryptoDeposit } from "@/lib/nowpayments.functions";
@@ -419,7 +419,7 @@ function FundPage() {
               aria-pressed={mode === "mobile"}
               className="h-9 gap-2 rounded-full px-4 py-2 text-xs font-semibold"
             >
-              <img src={safaricomPaymentLogo.url} alt="" className="h-5 w-16 shrink-0 rounded-sm bg-background object-contain px-1" /> M-PESA
+              <img src={safaricomPaymentLogo} alt="" className="h-5 w-16 shrink-0 rounded-sm bg-background object-contain px-1" /> M-PESA
             </Button>
           )}
           {cryptoEnabled && (

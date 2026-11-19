@@ -22,7 +22,9 @@ export const Route = createFileRoute("/stories")({
 
 function Media({ item }: { item: PlatformContent }) {
   const embed = item.media_type === "youtube" ? youtubeEmbed(item.media_url) : null;
-  const safe = safeMediaUrl(item.media_url);
+  let safe = safeMediaUrl(item.media_url);
+  // Legacy Lovable-hosted files: the poster image exists locally, the rest are gone.
+  if (safe?.startsWith("/__l5e/")) safe = safe.includes("ziidi-awareness-poster") ? awarenessPoster : null;
   if (embed) return <iframe className="aspect-video w-full bg-muted" src={embed} title={item.title} loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen />;
   if (item.media_type === "video" && safe) return <video controls preload="metadata" playsInline poster={item.media_url.includes("ziidi-awareness") ? awarenessPoster : undefined} className="max-h-[540px] w-full bg-muted object-contain"><source src={safe} type="video/mp4" />{item.media_url.includes("ziidi-awareness") && <source src={awarenessWebm} type="video/webm" />}Your browser does not support video.</video>;
   if (item.media_type === "image" && safe) return <img src={safe} alt={item.title} loading="lazy" className="max-h-[540px] w-full object-contain bg-muted" />;

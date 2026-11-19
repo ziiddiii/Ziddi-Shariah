@@ -3,9 +3,10 @@ import { useState } from "react";
 import { InstallAppButton } from "@/components/install-app-button";
 import { EntryBanner, useMinEntry } from "@/components/entry-banner";
 import { Button } from "@/components/ui/button";
-import launchPhoto from "@/assets/ziidi-shariah-launch.jpg.asset.json";
-import investorPhoto from "@/assets/ziidi-investor-tablet.jpg.asset.json";
-import communityVideoPoster from "@/assets/ziidi-community-video.jpg.asset.json";
+const launchPhoto = { url: lifestylePhoto };
+import lifestylePhoto from "@/assets/ziidi-home-lifestyle.jpg";
+const investorPhoto = { url: lifestylePhoto };
+const communityVideoPoster = { url: "/community-video-poster.jpg" };
 import { youtubeEmbed } from "@/lib/platform-content";
 import { useSupportContacts } from "@/hooks/use-support-contacts";
 import { Play, ArrowUpRight, Menu, X, Quote } from "lucide-react";
@@ -495,7 +496,7 @@ function CtaBand() {
     <section className="home-cta overflow-hidden bg-home-green-deep px-5 text-home-paper sm:px-8">
       <div className="home-cta-layout relative mx-auto grid max-w-6xl items-center gap-8 md:grid-cols-[minmax(0,0.7fr)_minmax(0,1.3fr)] md:gap-16">
         <div className="home-investor-photo relative mx-auto w-full">
-          <img src={investorPhoto.url} width={294} height={464} alt="An investor smiling while using her tablet" loading="lazy" className="h-auto w-full" />
+          <img src={investorPhoto.url} width={294} height={464} alt="An investor smiling while using her tablet" loading="lazy" className="aspect-[294/464] h-auto w-full object-cover" />
         </div>
         <div className="relative min-w-0 py-12 md:py-20">
           <h2 className="text-3xl font-bold tracking-normal text-home-paper sm:text-4xl">
